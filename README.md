@@ -1,0 +1,1 @@
+The first of the two apps created by Team Genesis that won GEP Techathon 2020 conducted by GEP WorldWide. This application is used to generate QR Codes from given item details and present an option of even encrypting the QR code using a custom yet unique algorithm designed by Team Genesis.
